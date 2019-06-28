@@ -105,6 +105,7 @@ namespace Dubs_Debug
                 b += $"\n DisabledWorkTypes == null { __instance?.pawn?.story?.DisabledWorkTypes == null}";
                 b += "\n";
                 b += e;
+                Log.Error(b);
             }
             return false;
         }

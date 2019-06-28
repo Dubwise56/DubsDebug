@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dubs Debug\obj\Debug\Dubs Debug.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dubs Debug\Assemblies\0Harmony.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dubs Debug\obj\Debug\Dubs Debug.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dubs Debug\Assemblies\Dubs Debug.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dubs Debug\obj\Debug\Dubs Debug.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Dubs Debug\obj\Debug\Dubs Debug.csprojAssemblyReference.cache

@@ -82,7 +82,7 @@ namespace Dubs_Debug
         public static void Postfix()
         {
             System.Diagnostics.StackTrace t = new System.Diagnostics.StackTrace();
-            Log.Warning(t.ToString());
+         //   Log.Warning(t.ToString());
         }
     }
 
